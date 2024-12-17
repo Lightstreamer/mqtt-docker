@@ -4,7 +4,7 @@ MQTT.Cool is a gateway designed for boosting existing MQTT brokers by extending 
 
 For more information and related downloads for the MQTT.Cool server and MQTT.Cool related products, please visit [mqtt.cool](https://mqtt.cool).
 
-![](https://github.com/MQTTCool/Docker/raw/master/logo.png)
+![](https://github.com/Lightstreamer/mqtt-docker/raw/master/logo.png)
 
 # How to use this image
 
