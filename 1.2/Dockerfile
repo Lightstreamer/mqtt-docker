@@ -5,7 +5,7 @@ LABEL maintainer="MQTT.Cool Server Development Team <support@mqtt.cool>"
 
 # Set environment variables to identify the right MQTT.Cool version and edition
 ENV MQTTCOOL_VERSION 1.2.0
-ENV MQTTCOOL_URL_DOWNLOAD https://get.mqtt.cool/server/${MQTTCOOL_VERSION}/mqtt.cool-${MQTTCOOL_VERSION}.tar.gz
+ENV MQTTCOOL_URL_DOWNLOAD https://lightstreamer.com/mqttcool/server/${MQTTCOOL_VERSION}/mqtt.cool-${MQTTCOOL_VERSION}.tar.gz
 
 # Install the required packages
 RUN set -ex; \

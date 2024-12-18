@@ -80,4 +80,4 @@ where `/path/to/custom/pages` is the path in your host machine containing the re
 
 ## License
 
-View [license information](https://get.mqtt.cool/server/1.2.0/Lightstreamer+Software+License+Agreement.pdf) for the software contained in this image.
+View [license information](https://lightstreamer.com/mqttcool/server/1.2.0/Lightstreamer+Software+License+Agreement.pdf) for the software contained in this image.
